@@ -27,3 +27,7 @@ ce projet comporte donc:
 
 ![image](https://github.com/pandaroux19/SAE303/assets/146937290/a8a93910-a81f-44b3-8076-5f5c47bb3a5e)
 
+
+![image](https://github.com/pandaroux19/SAE303/assets/146937290/cc94ae43-74a2-4d0e-8c18-f90edc46ea43)
+
+
