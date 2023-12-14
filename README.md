@@ -17,13 +17,13 @@ problème lier a la réalisation j'ai essaie de réaliser un donuts liant le nom
 
 
 malgrès le peu de temps qui me rester j'ai essayer de me tourner vers une tache un peu plus ardus la création d'un diagramme baton montrant le nombre de réussite par solver 
-malheuresement je n'ai pas réussie a aller au bout mais vous posséder une piste dans mes recherches. 
+ce qui ma réelment posé ici etait de lier les solver au nombre de résultat qu'il on eux. la solution a était de les mettres dans l'ordres et de mettres les différents nom dnas les labers
 
 
 ce projet comporte donc: 
 
-- la visualition d'un camenbert affichant le nombre de NUll , réusite et échec 
-- les essais d'un diagramme en batôn
+- la visualisation d'un camenbert affichant le nombre de NUll , réusite et échec 
+- la visualisation  d'un diagramme en batôn affichant les réussite des différents solvers
 
 ![image](https://github.com/pandaroux19/SAE303/assets/146937290/a8a93910-a81f-44b3-8076-5f5c47bb3a5e)
 
